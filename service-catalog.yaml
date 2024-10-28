@@ -8,4 +8,5 @@ metadata:
     - data
 spec:
   type: service
-  lifecycle: experimental
+  lifecycle: experimental 
+  owner: team-a
