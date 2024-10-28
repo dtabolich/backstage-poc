@@ -1,0 +1,11 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: intpl-api-publication
+  description: API Publication
+  tags:
+    - java
+    - data
+spec:
+  type: service
+  lifecycle: experimental
