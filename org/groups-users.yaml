@@ -18,4 +18,4 @@ spec:
   profile:
     # Intentional no displayName for testing
     email: dev1@example.com
-    memberOf: [development]
+  memberOf: [development]
