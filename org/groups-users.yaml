@@ -9,13 +9,13 @@ spec:
     # Intentional no displayName for testing
     email: team-a@example.com
   children: []
----
-apiVersion: backstage.io/v1alpha1
-kind: User
-metadata:
-  name: dev1
-spec:
-  profile:
-    # Intentional no displayName for testing
-    email: dev1@example.com
-  memberOf: [development]
+# ---
+# apiVersion: backstage.io/v1alpha1
+# kind: User
+# metadata:
+#   name: dev1
+# spec:
+#   profile:
+#     # Intentional no displayName for testing
+#     email: dev1@example.com
+#   memberOf: [development]
